@@ -9,5 +9,7 @@ public class Average {
         Arrays.stream(arr).average().orElse(0); //simple
         Double sum = (double)(Arrays.stream(arr).sum()) / Double.valueOf(arr.length);
         System.out.println(sum);
+
+//        TEST
     }
 }
