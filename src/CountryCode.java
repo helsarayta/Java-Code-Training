@@ -10,6 +10,7 @@ public class CountryCode {
 
         Locale.getISOCountries(Locale.IsoCountryCode.PART1_ALPHA2).stream().filter(i -> i.equals("CM"));
 //        System.out.println(new ArrayList<>(cm));
-
+//TEST 1
+//        TEST 2
     }
 }
