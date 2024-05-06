@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fb4aec17-cdf5-4c7b-bffe-080e1ef1b258" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "helsarayta"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/helsarayta/Java-Code-Training.git",
+    "accountId": "22a64599-1818-4958-a161-a7657b38ac81"
+  }
+}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2VoodAA9yZ1htlNaCeOfQlDL0Ns" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.AbbreviateTwoWordName.executor": "Run",
+    "Application.Anagram.executor": "Run",
+    "Application.ArrayDemo.executor": "Run",
+    "Application.ArrayDiff.executor": "Run",
+    "Application.ArrayPlusArray.executor": "Run",
+    "Application.ArraysContainValue.executor": "Run",
+    "Application.Average.executor": "Run",
+    "Application.BinarySearch.executor": "Run",
+    "Application.BinarySearchRecursive.executor": "Run",
+    "Application.BuildTower.executor": "Run",
+    "Application.BulletAndDragon.executor": "Run",
+    "Application.CountPositifSumNegatif.executor": "Run",
+    "Application.CountSheep.executor": "Run",
+    "Application.CountryCode.executor": "Run",
+    "Application.CustomException.executor": "Run",
+    "Application.DirReduction.executor": "Run",
+    "Application.DistanceFuel.executor": "Run",
+    "Application.Fibonacci.executor": "Run",
+    "Application.Finally.executor": "Run",
+    "Application.FindFactorial.executor": "Run",
+    "Application.FindMissingNumber.executor": "Run",
+    "Application.Grasshopper.executor": "Run",
+    "Application.GrowthOfPopulation.executor": "Run",
+    "Application.Hash.executor": "Run",
+    "Application.InputBufferedReader.executor": "Run",
+    "Application.IoC.executor": "Run",
+    "Application.IsIsogram.executor": "Run",
+    "Application.KeepHydrated.executor": "Run",
+    "Application.LostWithoutAMap.executor": "Run",
+    "Application.MagicNumber.executor": "Run",
+    "Application.MultipleMainMethods.executor": "Run",
+    "Application.NarcissisticNumber.executor": "Run",
+    "Application.OppositeNumber.executor": "Run",
+    "Application.Palindrome.executor": "Run",
+    "Application.PinDigitNumber.executor": "Run",
+    "Application.PrimeNumberTwoInput.executor": "Run",
+    "Application.RandomTest.executor": "Run",
+    "Application.RemoveStringSpace.executor": "Run",
+    "Application.RemoveTheMinimum.executor": "Run",
+    "Application.Reverse.executor": "Run",
+    "Application.ReverseNumberToArray.executor": "Run",
+    "Application.ReverseStringNormal.executor": "Run",
+    "Application.RgbToHex.executor": "Run",
+    "Application.RotateArrays.executor": "Run",
+    "Application.RunnableThread.executor": "Run",
+    "Application.SortTheOdd.executor": "Run",
+    "Application.SpinWords.executor": "Run",
+    "Application.SplitString.executor": "Run",
+    "Application.SquareEveryDigit.executor": "Run",
+    "Application.StaticPrintTest.executor": "Run",
+    "Application.Stream.executor": "Run",
+    "Application.StringToArray.executor": "Run",
+    "Application.StringVariableArguments.executor": "Run",
+    "Application.SumOddOrEven.executor": "Run",
+    "Application.SumOfPositiveArray.executor": "Run",
+    "Application.SwicthValueVariables.executor": "Run",
+    "Application.TenMinWalk.executor": "Run",
+    "Application.Tiger.executor": "Run",
+    "Application.TowerProblem.executor": "Run",
+    "Application.WhoLikesIt.executor": "Run",
+    "Application.countSheep.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "05adaab2",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/user/Documents/MyProject/Java Code WARS",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.CountryCode">
+    <configuration name="CountryCode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CountryCode" />
+      <module name="Java Code WARS" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IoC" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="IoC" />
+      <module name="Java Code WARS" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LostWithoutAMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LostWithoutAMap" />
+      <module name="Java Code WARS" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RandomTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RandomTest" />
+      <module name="Java Code WARS" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tiger" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Tiger" />
+      <module name="Java Code WARS" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.CountryCode" />
+        <item itemvalue="Application.RandomTest" />
+        <item itemvalue="Application.IoC" />
+        <item itemvalue="Application.Tiger" />
+        <item itemvalue="Application.LostWithoutAMap" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-18abd8497189-intellij.indexing.shared.core-IU-241.14494.240" />
+        <option value="bundled-js-predefined-1d06a55b98c1-74d2a5396914-JavaScript-IU-241.14494.240" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fb4aec17-cdf5-4c7b-bffe-080e1ef1b258" name="Changes" comment="" />
+      <created>1695511891165</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1695511891165</updated>
+      <workItem from="1695511892668" duration="8330000" />
+      <workItem from="1696037884922" duration="7003000" />
+      <workItem from="1706250301367" duration="267000" />
+      <workItem from="1706453987584" duration="1951000" />
+      <workItem from="1706869658518" duration="629000" />
+      <workItem from="1706884828356" duration="18116000" />
+      <workItem from="1707142305389" duration="3633000" />
+      <workItem from="1707380385230" duration="29323000" />
+      <workItem from="1708133760982" duration="262000" />
+      <workItem from="1708643889607" duration="43834000" />
+      <workItem from="1709125891148" duration="8115000" />
+      <workItem from="1709361924395" duration="15163000" />
+      <workItem from="1709647630235" duration="3030000" />
+      <workItem from="1709974909250" duration="5196000" />
+      <workItem from="1712149376872" duration="1354000" />
+      <workItem from="1713239159112" duration="2569000" />
+      <workItem from="1713380977636" duration="699000" />
+      <workItem from="1713715596781" duration="669000" />
+      <workItem from="1714974895553" duration="4916000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
